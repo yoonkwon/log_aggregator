@@ -19,4 +19,5 @@ if __name__ == '__main__':
                 f.write(os.linesep)
             f.write(log['msg'])
     print(len(logger.logs))
+    print(path)
 
